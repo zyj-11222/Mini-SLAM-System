@@ -27,7 +27,7 @@
 **测试序列**：`fr1/desk`
 **评估指标**：Absolute Trajectory Error (ATE)
 
-![Trajectory Plot](./docs/evo_result.png)
+![Trajectory Plot](./docs/evo_result—_map.png)
 *注：当前版本为纯单目里程计实现，未加入尺度闭环，图中展示了经过 Sim(3) 对齐后的轨迹形态，RMSE 表现符合单目 VO 预期。*
 ## 🏃 如何运行
 
